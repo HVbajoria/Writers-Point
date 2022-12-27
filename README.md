@@ -85,13 +85,13 @@ The methodology for the seamless execution of the whole application is given bel
 
 #### For fetching content from the Polygon blockchain:
 <p align="center">
-<img src="https://ipfs.io/ipfs/bafybeib2btz2ldddusi4otcmuzuaxbcfqpsmmtuc2sw2hpprzketwb3zva/Fetch_Content.jpg" width="520" alt="accessibility text" >
+<img src="https://ipfs.io/ipfs/bafybeihc6463dmad4k267ypjdz6gj76s32me6m6ju633qdjyjyd3fbhkpu/Add_Content.jpg" width="520" alt="accessibility text" >
   </p>
   </br>
   
 #### For publishing content to the Polygon blockchain :
 <p align="center">
-<img src="https://ipfs.io/ipfs/bafybeihc6463dmad4k267ypjdz6gj76s32me6m6ju633qdjyjyd3fbhkpu/Add_Content.jpg" width="580" alt="accessibility text" >
+<img src="https://ipfs.io/ipfs/bafybeib2btz2ldddusi4otcmuzuaxbcfqpsmmtuc2sw2hpprzketwb3zva/Fetch_Content.jpg" width="580" alt="accessibility text" >
   </p>
 </br>
 
