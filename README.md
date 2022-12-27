@@ -76,7 +76,7 @@ yarn start
 * Enjoy the app!
 #### When you click on Enter Now you need to connect your MetaMask wallet to continue. 
 
-## Demo Video Link: 
+## Demo Video Link: https://youtu.be/0zuWJV3le9o
 
 ## Website Link: https://writerspoint.netlify.app/ 
 
