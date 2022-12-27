@@ -103,14 +103,15 @@ The methodology for the seamless execution of the whole application is given bel
 </br>
 
 ## Social Impact / Novelty:
-This application will redefine the way content creators create content and share them with the world. It will encourage everyone to create content and share their thoughts, and emotions without worrying or being afraid of it. This will help everyone free their mind and get relaxed and not go through stress, depression which are becoming common nowadays. 
+This application will redefine the way content creators create content and share them with the world. It will encourage everyone to create content and share their thoughts, and emotions without worrying or being afraid of it. 
+* This will help everyone free their mind and get relaxed and not go through stress, depression which are becoming common nowadays. 
 * It will make every user feel included by giving them a platform where they can share content with a pen name, and gain and receive feedback while hiding their real identity. This will encourage everyone to share content effectively. 
 * It will allow direct interaction between the viewer and the content creator without a third party or third-person intervention that allows users to directly send and receive tokens for their work. 
 * It will bring security to the system which is important to build confidence and trust for the users. It will help them effectively create content and assure the creators. 
 
 ## Future Scope:
-If this application is deployed for the general people I believe :
-*It will help create a revolution in the content creation industry that gives the rights and power to the creators. This encourages healthy content to be promoted and consumed by the users.
+If this application is deployed for the general people I believe:
+* It will help create a revolution in the content creation industry that gives the rights and power to the creators. This encourages healthy content to be promoted and consumed by the users.
 * If integrated with AI/ML it will allow only relevant content to be shown to the user and give every content the same priority.  
 * The trust and security that comes with blockchain is a permanent database. So, every transaction is tracked and valid thus, not allowing any invalid, fraud to take place. 
 * It will help increase the conversion rate and enhance the experience, and authority of the creators, and make them feel heard. 
