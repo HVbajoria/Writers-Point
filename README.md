@@ -42,7 +42,7 @@ The following tech stacks have been used to create the application and deploy it
 * **Polygon blockchain (Mumbai)** to deploy the backend of the application using smart contracts.
 * **Solidity and Remix IDE** to create the smart contract and compile, and deploy it on the Polygon blockchain (Mumbai) 
 * **MetaMask wallet** to carry out transactions seamlessly in the blockchain. 
-* **Netlify** to deploy the front end of the application.
+* **Spheron** to deploy the front end of the application.
 
 ## Installation Guide: ⬇️
 First, install the following:
